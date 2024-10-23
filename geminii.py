@@ -32,7 +32,7 @@ with open('Models/cosine_similarity.pkl', 'rb') as f:
     loaded_cosine_sim = pickle.load(f)
 
 
-GOOGLE_API_KEY = 'AIzaSyAmfhblnwg1JxT5hOfJqv7sAASHlnO1cvE'
+GOOGLE_API_KEY = 'key here'
 
 genai.configure(api_key=GOOGLE_API_KEY)
 
