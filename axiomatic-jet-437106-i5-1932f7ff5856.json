@@ -1,0 +1,15 @@
+{
+  "type": "service_account",
+  "project_id": "axiomatic-jet-437106-i5",
+  "private_key_id": "1932f7ff5856d568e33c627af947813dac9393b0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDKWHbw8W+ZQ8j5\nptkAsPU8MaBMwzAZweZg69IIwd0ohLL0chDMlUMkGPbV8lEEsGSr/tg9b21K7bX3\nZnXUOLzJaxHobRkx1ft3y0N+clIMVYFFxcO3FrViyAvJAO6jys1uxI0EnrFni0Yo\naBe0/cPQNufbdgp1RULrK7uHTIEaXo5bYXxwsJB1DsqY1GW2Qf6l1g+oL2dfKkUe\n/SWhMcWihWShTq44xMSo2zOCcrV9BTDA0sqJwpMpSsIgxfPT+wICBnPsuE+ikrDc\nMY1LMMeEmTv/bYVw13f1jddxdjHJdKmUnnpehhlh+aLF6Ft0UZvu57+MCcOf39Ip\nEcAnL+nPAgMBAAECggEARbrLrkd9XlNCOGo7gOX6dNZjN+DRvCaaVg8eL79jD9n+\n84c1a9MKMq/ZrCvXqKaC4tStPyqdfsNBQHMSKuKsiDq6Dp8+HfLwOD2XUkViKfbz\nWBCJXBhaxKJMkWWdV1uFhOT99bgcSaLwt+77MHd82c16BCJ/Ax+tqm5FLyB5oxSS\nty+yyjtvTCVDrF21DAuaUojCv8NDoUlA3l0xIglI10AEb/NhLyLCYaxTnMgb/Yko\nv8jUqKhWghcSLW/yTmUdYt9HGrIUyBwikuXiSCDBRe0PJSuM8NhDMK12uwblBHb/\n+iYVnmiPZ//yq2Sk/yA0i0yxdkUfEa0CXjAbz+DG9QKBgQDtguqGqKrVsWvwpyMh\nAQ1hh63zySP3+QOg453aTvoox3fgcuglAfh3U1fuMShrryqdT24WJmFE6qiNi0nb\nzmrncPe3rHlfGQeVafEj57RuaQTnm0rF1QGBiM9CgGxGgvt2JI8MpmOVX0DE5AiZ\nCnNPEgGbiG5mS0Ff6Xsc1SsNFQKBgQDaGMUyKi7HmEFu1hTMVKrjBT2upo417c/h\nTgA/oFWyn+J2jRAb8rmgi+tevb4xgWVpeZfvTCMlq81WqE+lTjj0nF+4UthG4Y0G\nxT+cSgsfLsnwT1ybl6DM0dAnBLt0y63O68zkwBiFJi4pWpuC6pPNp0lTkkVX7/HD\n5jpC/nL8UwKBgQChVyhHdzYtWYuwe2kSl2tmkEtranxji6WaWmS1kqa+otlc/9GQ\nqikFrfjyVjRWCjTRjc6Df2jd7uW22SLADRVzyLqN67y7C/6p0cC8Gj7oLbDmQAho\nIQ0X2D6qtyBWOc3l8Gm4NyM4qe8OkLUCeSXhVaL/64rLNF3hcHJwIKJRDQKBgQCL\n4DcY5VT7TfspSsQsCGFRGJtm2At9KviYV55xMDPGTCTCQ9aBFjtXbGWYbbj9py+T\nZhi7sOkZ0AXx/iCWtIRy3ZfGb9umGiKIpRkW86YOacO6DCwo3iaTNj15yN8xGTBv\n9WuDinAvdT1F6Ia0gB4rV47/umAe9hTov0++h9LXYQKBgQDMhsFeXT2eaDUSL24D\n90Cga21gzHs7V22cUfDpDFL1kooKD2HqzBikU4FKzI/7FZ0RojBoBfuWBA10CZai\n38VJjR+LM/c6aG33+mOzz2crNevgdINyj6jgLagQOXoDLc+qFUP6ONyEBcbmnEQg\ntWR5g89S2nyqoZod2GAvHspyAw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ocr-vivek@axiomatic-jet-437106-i5.iam.gserviceaccount.com",
+  "client_id": "113540921876114531698",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ocr-vivek%40axiomatic-jet-437106-i5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
+
